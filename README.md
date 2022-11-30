@@ -1,6 +1,6 @@
 # palpay
 
-This application is just an example, I learned to implement figma UI into an android apps using Flutter Frameworks.</br>
+This application is just an example, I learned to implement Figma UI design into an android app using Flutter Frameworks.</br>
 UI/UX Paypal Redesign is the work of [Vladim Demenko](https://dribbble.com/shots/14114443-PayPal-App-Redesign-Conept).
 
 ## Screenshot
