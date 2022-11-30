@@ -1,0 +1,88 @@
+{
+  "activities": [
+    {
+      "id": "1",
+      "activity_name": "Stephen Strange",
+      "activity_type": "income",
+      "income": "250",
+      "image_url": ""
+    },
+    {
+      "id": "2",
+      "activity_name": "Google Drive",
+      "activity_type": "expense",
+      "income": "138.5",
+      "image_url": ""
+    },
+    {
+      "id": "3",
+      "activity_name": "Fiverr",
+      "activity_type": "income",
+      "income": "355",
+      "image_url": ""
+    },
+    {
+      "id": "4",
+      "activity_name": "PT. Good Times",
+      "activity_type": "income",
+      "income": "50",
+      "image_url": ""
+    },
+    {
+      "id": "5",
+      "activity_name": "ShopeePay",
+      "activity_type": "expense",
+      "income": "73.4",
+      "image_url": ""
+    },
+    {
+      "id": "6",
+      "activity_name": "Gopay",
+      "activity_type": "expense",
+      "income": "45",
+      "image_url": ""
+    },
+    {
+      "id": "7",
+      "activity_name": "Fiverr",
+      "activity_type": "income",
+      "income": "89",
+      "image_url": ""
+    },
+    {
+      "id": "8",
+      "activity_name": "Cowboy Beebop",
+      "activity_type": "income",
+      "income": "123",
+      "image_url": ""
+    },
+    {
+      "id": "9",
+      "activity_name": "Anabelle",
+      "activity_type": "income",
+      "income": "124",
+      "image_url": ""
+    },
+    {
+      "id": "10",
+      "activity_name": "PT. Indoe Sejahtera",
+      "activity_type": "income",
+      "income": "750",
+      "image_url": ""
+    },
+    {
+      "id": "11",
+      "activity_name": "ShopeePay",
+      "activity_type": "expense",
+      "income": "32.22",
+      "image_url": ""
+    },
+    {
+      "id": "12",
+      "activity_name": "Pet Food",
+      "activity_type": "expense",
+      "income": "40",
+      "image_url": ""
+    }
+  ]
+}
